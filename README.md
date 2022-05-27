@@ -9,6 +9,7 @@ chmod +x newmac
 ~~~
 ## USAGE
 ~~~
+Change to your INTERFACE !!!
 ./newmac 
 ~~~
 ## ADVANCED 
